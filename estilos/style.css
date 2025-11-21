@@ -137,3 +137,45 @@ img.trabalha {
     width: 250px;
     height: 250px;
 }
+
+div.fotos {
+    background-color: white;
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+}
+
+h1.fotos {
+    text-align: center;
+}
+
+div.imgfotos {
+    width: 80vw;
+}
+
+div.posicionamento {
+    text-align: center;
+}
+
+img.fotos {
+    width: 375px;
+    height: 375px;
+}
+
+div.casa {
+    background-color: white;
+    width: 40vw;
+    height: 100vh;
+    margin: auto;
+}
+
+p.casa {
+    text-align: justify;
+    text-indent: 20px;
+    padding: 20px;
+}
+
+div.imgcasa {
+    width: 35vw;
+    margin: auto;
+}
